@@ -1,0 +1,6 @@
+{
+  "name": "ইসমাইল ক্যাপকাট",
+  "description": "Simple Video Editor - Trim, split, apply filters, add sound effects, dynamic text overlays, and export video projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
